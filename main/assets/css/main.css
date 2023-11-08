@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+h1 {
+    size: 70px;
+}
+
+.container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header {
+    width: 960px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.navbar li a:hover {
+    background-color: gray;
+    color: white;
+}
+
+#my-card h1 {
+    font-size: 80px;
+}
+
+.gallery-item {
+    margin: 15px;
+}
+
+.gallery-item h2 {
+    text-align: center;
+}
+
+.gallery-item a {
+    text-decoration: none;
+    color: white;
+}
+
+.gallery-item a:hover {
+    color: gray;
+}
+
+.footer {
+    color: black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    z-index: 1;
+}
+
+.miss h2, h1 {
+    text-align: center;
+}
+
+.miss span {
+    font-size: 5px;
+}
+
+.miss p {
+    font-size: 20px;
+}
+
+.miss h3 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.contact-container {
+    border-radius: 5px;
+      background-color: #666666;
+      padding: 20px;
+}
+
+
